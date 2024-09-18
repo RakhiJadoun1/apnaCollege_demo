@@ -1,3 +1,3 @@
 # apnaCollege_demo
-First Git repository
-Author - Rakhi Jadoun (First Change)
+First Git repository (basic)
+Author - Rakhi Jadoun   (First Change)
